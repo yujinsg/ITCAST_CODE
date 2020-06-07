@@ -1,1 +1,5 @@
-# ITCAST_CODE
+# Welcome to ITCAST_CODE
+
+This project is about .....
+
+File 1 contains ....
